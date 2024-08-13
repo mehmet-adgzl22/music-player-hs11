@@ -18,3 +18,4 @@
 https://music-player-hs11.netlify.app/
 
 # music-player-hs11 Proje Gifi
+![mpcgif](https://github.com/user-attachments/assets/13a5f9fc-54e9-45b5-a716-8038c2834d2c)
